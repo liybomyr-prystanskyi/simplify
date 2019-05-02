@@ -1,0 +1,30 @@
+{{#mol-portfolio-list-item}}
+<div class="portfolio__block flex-column col-lg-6 col-12 ">
+  {{#title}}
+  <div class="portfolio__block__description align-items-lg-center d-flex flex-column flex-lg-row">
+    <div class="info text-right">
+      <h1>{{title}}</h1>
+    </div>
+  </div>
+  {{/title}}
+  {{#img}}
+  <div class="mask-container">
+    <a href="/project">
+      <img data-name="Єкухня" src="{{{img}}}" alt="img" class="img">
+    </a>
+  </div>
+  {{/img}}
+  <div class="row mt-3 m-0">
+    <div class="col-lg-6 col-12 p-0">
+      {{#tags}}
+      <div class="portfolio__block__description__meta-tags">
+        <p>Tags: {{{tags}}}</p>
+      </div>
+      {{/tags}}
+    </div>
+    <div class="col-lg-6 col-12 p-0 d-flex justify-content-lg-end">
+      {{#url}}<a class="site-url-portfolio" href="{{{url}}}" tabindex="0">{{{url}}}</a>{{/url}}
+    </div>
+  </div>
+</div>
+{{/mol-portfolio-list-item}}

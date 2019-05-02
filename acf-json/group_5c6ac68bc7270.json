@@ -1,0 +1,256 @@
+{
+    "key": "group_5c6ac68bc7270",
+    "title": "Home page",
+    "fields": [
+        {
+            "key": "field_5c6ac6ff3d705",
+            "label": "Home layout",
+            "name": "home_layout",
+            "type": "flexible_content",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layouts": {
+                "5c6ac71cb544d": {
+                    "key": "5c6ac71cb544d",
+                    "name": "home-baner",
+                    "label": "Home banner",
+                    "display": "block",
+                    "sub_fields": [
+                        {
+                            "key": "field_5c80dfa13838a",
+                            "label": "Image",
+                            "name": "image",
+                            "type": "image",
+                            "instructions": "",
+                            "required": 0,
+                            "conditional_logic": 0,
+                            "wrapper": {
+                                "width": "20",
+                                "class": "",
+                                "id": ""
+                            },
+                            "return_format": "url",
+                            "preview_size": "thumbnail",
+                            "library": "all",
+                            "min_width": "",
+                            "min_height": "",
+                            "min_size": "",
+                            "max_width": "",
+                            "max_height": "",
+                            "max_size": "",
+                            "mime_types": ""
+                        },
+                        {
+                            "key": "field_5c80dfc03838b",
+                            "label": "First line title",
+                            "name": "first_line_title",
+                            "type": "text",
+                            "instructions": "",
+                            "required": 0,
+                            "conditional_logic": 0,
+                            "wrapper": {
+                                "width": "40",
+                                "class": "",
+                                "id": ""
+                            },
+                            "default_value": "",
+                            "placeholder": "",
+                            "prepend": "",
+                            "append": "",
+                            "maxlength": ""
+                        },
+                        {
+                            "key": "field_5c80dfcd3838c",
+                            "label": "Second line title",
+                            "name": "second_line_title",
+                            "type": "text",
+                            "instructions": "",
+                            "required": 0,
+                            "conditional_logic": 0,
+                            "wrapper": {
+                                "width": "40",
+                                "class": "",
+                                "id": ""
+                            },
+                            "default_value": "",
+                            "placeholder": "",
+                            "prepend": "",
+                            "append": "",
+                            "maxlength": ""
+                        }
+                    ],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_5c6ad1205b81c": {
+                    "key": "layout_5c6ad1205b81c",
+                    "name": "who-we-are",
+                    "label": "Who we are",
+                    "display": "block",
+                    "sub_fields": [
+                        {
+                            "key": "field_5c6ad1305b81d",
+                            "label": "Who we are",
+                            "name": "who_we_are",
+                            "type": "clone",
+                            "instructions": "",
+                            "required": 0,
+                            "conditional_logic": 0,
+                            "wrapper": {
+                                "width": "",
+                                "class": "",
+                                "id": ""
+                            },
+                            "clone": [
+                                "field_5c6ad0ce37a5e"
+                            ],
+                            "display": "seamless",
+                            "layout": "block",
+                            "prefix_label": 0,
+                            "prefix_name": 0
+                        }
+                    ],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_5c6bd9a89bd79": {
+                    "key": "layout_5c6bd9a89bd79",
+                    "name": "our-works",
+                    "label": "Our works",
+                    "display": "block",
+                    "sub_fields": [
+                        {
+                            "key": "field_5c6bd9bb9bd7a",
+                            "label": "Our works",
+                            "name": "our_works",
+                            "type": "relationship",
+                            "instructions": "",
+                            "required": 0,
+                            "conditional_logic": 0,
+                            "wrapper": {
+                                "width": "",
+                                "class": "",
+                                "id": ""
+                            },
+                            "post_type": [
+                                "portfolio"
+                            ],
+                            "taxonomy": "",
+                            "filters": [
+                                "search"
+                            ],
+                            "elements": "",
+                            "min": "",
+                            "max": "",
+                            "return_format": "object"
+                        }
+                    ],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_5c6bfe8726d2e": {
+                    "key": "layout_5c6bfe8726d2e",
+                    "name": "our-approach",
+                    "label": "Our approach",
+                    "display": "block",
+                    "sub_fields": [
+                        {
+                            "key": "field_5c6c042626d2f",
+                            "label": "Our approach",
+                            "name": "our_approach",
+                            "type": "clone",
+                            "instructions": "",
+                            "required": 0,
+                            "conditional_logic": 0,
+                            "wrapper": {
+                                "width": "",
+                                "class": "",
+                                "id": ""
+                            },
+                            "clone": [
+                                "group_5c6bfd984af62"
+                            ],
+                            "display": "seamless",
+                            "layout": "block",
+                            "prefix_label": 0,
+                            "prefix_name": 0
+                        }
+                    ],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_5c6c11887298b": {
+                    "key": "layout_5c6c11887298b",
+                    "name": "clients",
+                    "label": "Clients",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_5c6d1c40a5768": {
+                    "key": "layout_5c6d1c40a5768",
+                    "name": "our-news",
+                    "label": "Our news",
+                    "display": "block",
+                    "sub_fields": [
+                        {
+                            "key": "field_5c6d1c51a5769",
+                            "label": "Our news",
+                            "name": "our_news",
+                            "type": "relationship",
+                            "instructions": "",
+                            "required": 0,
+                            "conditional_logic": 0,
+                            "wrapper": {
+                                "width": "",
+                                "class": "",
+                                "id": ""
+                            },
+                            "post_type": [
+                                "post"
+                            ],
+                            "taxonomy": "",
+                            "filters": [
+                                "search"
+                            ],
+                            "elements": "",
+                            "min": "",
+                            "max": "",
+                            "return_format": "object"
+                        }
+                    ],
+                    "min": "",
+                    "max": ""
+                }
+            },
+            "button_label": "Add Row",
+            "min": "",
+            "max": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page_template",
+                "operator": "==",
+                "value": "template-home.php"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1551966633
+}

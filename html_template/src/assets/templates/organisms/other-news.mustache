@@ -1,0 +1,16 @@
+{{#org-other-news}}
+<section class="other-news">
+  <div class="container">
+    <div class="other-news__navigation d-lg-flex justify-content-lg-between align-items-center">
+      {{> ../molecules/title-h2-default}}
+      <div class="other-news__navigation__arrows d-none d-lg-flex align-items-center">
+        <div class="prev-slide" id="other-news-left"></div>
+        <div class="next-slide" id="other-news-right"></div>
+      </div>
+    </div>
+    <div class="news-slide">
+      {{> ../organisms/news-single-slider}}
+    </div>
+  </div>
+</section>
+{{/org-other-news}}

@@ -1,0 +1,313 @@
+{
+  "mol-logotype": true,
+  "mol-language": {
+    "add-class": "d-block d-lg-none"
+  },
+  "mol-menu-list": [
+    {
+      "url": "/simplify/build/portfolio",
+      "value": "Our work"
+    },
+    {
+      "url": "/simplify/build/about",
+      "value": "About us"
+    },
+    {
+      "url": "/simplify/build/news",
+      "value": "News"
+    },
+    {
+      "url": "/simplify/build/contact-us",
+      "value": "Contact us"
+    }
+  ],
+  "mol-who-we-are-block": [
+    {
+      "title": "Experience Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "title": "Branding",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "title": "Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ],
+  "mol-title-h2-default": {
+    "title": true,
+    "text": true
+  },
+  "mol-approach-description": {
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  "mol-our-approach-item": [
+    {
+      "title": "Discover",
+      "img": ""
+    },
+    {
+      "title": "Design",
+      "img": ""
+    },
+    {
+      "title": "Build",
+      "img": ""
+    },
+    {
+      "title": "Improve",
+      "img": ""
+    }
+  ],
+  "mol-client-item": [
+    {
+      "logo": "assets/img/clients-1.png"
+    },
+    {
+      "logo": "assets/img/clients-2.png"
+    },
+    {
+      "logo": "assets/img/clients-3.png"
+    },
+    {
+      "logo": "assets/img/clients-4.png"
+    },
+    {
+      "logo": "assets/img/clients-5.png"
+    },
+    {
+      "logo": "assets/img/clients-6.png"
+    },
+    {
+      "logo": "assets/img/clients-7.png"
+    }
+  ],
+  "mol-our-works-slide": [
+    {
+      "title": "Єкухня",
+      "url": "ekyhnya.com.ua",
+      "image": "assets/img/e-kitchen.png",
+      "data-name": "Єкухня"
+    },
+    {
+      "title": "ГалРес",
+      "url": "iteria.com.ua/galres",
+      "image": "assets/img/galres.jpg",
+      "data-name": "ГалРес"
+    },
+    {
+      "title": "Єкухня",
+      "url": "ekyhnya.com.ua",
+      "image": "assets/img/e-kitchen.png",
+      "data-name": "Єкухня"
+    }
+  ],
+  "mol-our-news-item": [
+    {
+      "image": "assets/img/our-news-1.png",
+      "title": "How to design ICO website",
+      "description": "ICO is quite a buzzword these days. But is it really a silver bullet and how do you actually organize and design good ICO website?",
+      "date": "May 22, 2018"
+    },
+    {
+      "image": "assets/img/our-news-2.png",
+      "title": "Design Education: Our Experience",
+      "description": "ICO is quite a buzzword these days. But is it really a silver bullet and how do you actually organize and design good ICO website?",
+      "date": "January 17, 2018"
+    },
+    {
+      "image": "assets/img/our-news-1.png",
+      "title": "How to design ICO website",
+      "description": "ICO is quite a buzzword these days. But is it really a silver bullet and how do you actually organize and design good ICO website?",
+      "date": "May 22, 2018"
+    }
+  ],
+  "mol-copyright": {
+    "value": "Copyright ©2018, Simplify Inc. All rights reserved"
+  },
+  "mol-about-us-description": {
+    "description": " <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+  },
+  "mol-about-us-slides": [
+    {
+      "image": "assets/img/about-us-slide.jpg"
+    },
+    {
+      "image": "assets/img/about-us-slide.jpg"
+    },
+    {
+      "image": "assets/img/about-us-slide.jpg"
+    }
+  ],
+  "mol-approach-statistic-block": [
+    {
+      "logo-img": "assets/img/approach-projects-logo.png",
+      "main-img": "assets/img/about-approach-image.png",
+      "descr-first": "More then",
+      "descr-next": "20+",
+      "descr-last": "Projects"
+    },
+    {
+      "logo-img": "assets/img/approach-works-logo.png",
+      "main-img": "assets/img/about-approach-image2.png",
+      "descr-first": "More then",
+      "descr-next": "30+",
+      "descr-last": "Clients"
+    }
+  ],
+  "mol-news-item": [
+    {
+      "title": "How to design ICO website",
+      "description": "ICO is quite a buzzword these days. But is it really a silver bullet and how do you actually organize and design good ICO website?",
+      "date": "May 22, 2018",
+      "image": "assets/img/news-1.jpg"
+    },
+    {
+      "title": "How to design ICO website",
+      "description": "ICO is quite a buzzword these days. But is it really a silver bullet and how do you actually organize and design good ICO website?",
+      "date": "May 22, 2018",
+      "image": "assets/img/news-2.png"
+    },
+    {
+      "title": "How to design ICO website",
+      "description": "ICO is quite a buzzword these days. But is it really a silver bullet and how do you actually organize and design good ICO website?",
+      "date": "May 22, 2018",
+      "image": "assets/img/news-3.png"
+    },
+    {
+      "title": "How to design ICO website",
+      "description": "ICO is quite a buzzword these days. But is it really a silver bullet and how do you actually organize and design good ICO website?",
+      "date": "May 22, 2018",
+      "image": "assets/img/news-4.png"
+    },
+    {
+      "title": "How to design ICO website",
+      "description": "ICO is quite a buzzword these days. But is it really a silver bullet and how do you actually organize and design good ICO website?",
+      "date": "May 22, 2018",
+      "image": "assets/img/news-5.png"
+    },
+    {
+      "title": "How to design ICO website",
+      "description": "ICO is quite a buzzword these days. But is it really a silver bullet and how do you actually organize and design good ICO website?",
+      "date": "May 22, 2018",
+      "image": "assets/img/news-6.png"
+    }
+  ],
+  "mol-news-single-block": [
+    {
+      "image": "assets/img/open-news-page-image-1.jpg",
+      "description": "<p>'Design that works' is QubStudio tag line. The digital design company based in Lviv, Ukraine, currently employs 25 people, and its work is mostly on UX/UI design. QubStudio is the brainchild of Lyubomyr Koval, a web developer, and Victor Fedyuk, a designer and artist. With a mutual passion for contemporary web design and a shared business sense, the friends decided to get together and fund the company over seven years ago. First there were two; now they are 25 and only last year they moved into a bigger office to allow for more growth and creativity.</p><p>he hard working Ukrainian team knows that great things don't 'just happen.' On its website, it lists a code of rules, which it uses to achieve what its customers want: creative and effective user interfaces. The page opens with a quote from contemporary Artist Andrew Hendrixson: 'Anyone who has ever made anything of importance was disciplined.'</p>"
+    },
+    {
+      "image": "assets/img/open-news-page-image-2.jpg",
+      "description": "<p>'Design that works' is QubStudio tag line. The digital design company based in Lviv, Ukraine, currently employs 25 people, and its work is mostly on UX/UI design. QubStudio is the brainchild of Lyubomyr Koval, a web developer, and Victor Fedyuk, a designer and artist. With a mutual passion for contemporary web design and a shared business sense, the friends decided to get together and fund the company over seven years ago. First there were two; now they are 25 and only last year they moved into a bigger office to allow for more growth and creativity.</p><p>he hard working Ukrainian team knows that great things don't 'just happen.' On its website, it lists a code of rules, which it uses to achieve what its customers want: creative and effective user interfaces. The page opens with a quote from contemporary Artist Andrew Hendrixson: 'Anyone who has ever made anything of importance was disciplined.'</p>"
+    },
+    {
+      "image": "assets/img/open-news-page-image-3.jpg",
+      "description": "<p>'Design that works' is QubStudio tag line. The digital design company based in Lviv, Ukraine, currently employs 25 people, and its work is mostly on UX/UI design. QubStudio is the brainchild of Lyubomyr Koval, a web developer, and Victor Fedyuk, a designer and artist. With a mutual passion for contemporary web design and a shared business sense, the friends decided to get together and fund the company over seven years ago. First there were two; now they are 25 and only last year they moved into a bigger office to allow for more growth and creativity.</p><p>he hard working Ukrainian team knows that great things don't 'just happen.' On its website, it lists a code of rules, which it uses to achieve what its customers want: creative and effective user interfaces. The page opens with a quote from contemporary Artist Andrew Hendrixson: 'Anyone who has ever made anything of importance was disciplined.'</p>"
+    },
+    {
+      "image": "assets/img/open-news-page-image-4.jpg",
+      "description": "<p>'Design that works' is QubStudio tag line. The digital design company based in Lviv, Ukraine, currently employs 25 people, and its work is mostly on UX/UI design. QubStudio is the brainchild of Lyubomyr Koval, a web developer, and Victor Fedyuk, a designer and artist. With a mutual passion for contemporary web design and a shared business sense, the friends decided to get together and fund the company over seven years ago. First there were two; now they are 25 and only last year they moved into a bigger office to allow for more growth and creativity.</p><p>he hard working Ukrainian team knows that great things don't 'just happen.' On its website, it lists a code of rules, which it uses to achieve what its customers want: creative and effective user interfaces. The page opens with a quote from contemporary Artist Andrew Hendrixson: 'Anyone who has ever made anything of importance was disciplined.'</p>"
+    }
+  ],
+  "mol-other-news-slide": [
+    {
+      "image": "assets/img/open-news-page-slider.jpg"
+    },
+    {
+      "image": "assets/img/open-news-page-slider.jpg"
+    },
+    {
+      "image": "assets/img/open-news-page-slider.jpg"
+    },
+    {
+      "image": "assets/img/open-news-page-slider.jpg"
+    }
+  ],
+  "mol-portfolio-list-item": [
+    {
+      "title": "Єкухня",
+      "url": "ekyhnya.com.ua",
+      "tags": "<span>FinTechredesign <br>Web Service</span>",
+      "img": "assets/img/e-kitchen.png"
+    },
+    {
+      "title": "Violet Art",
+      "url": "ekyhnya.com.ua",
+      "tags": "<span>FinTechredesign <br>Web Service</span>",
+      "img": "assets/img/proj-2.jpg"
+    },
+    {
+      "title": "Prima Dent",
+      "url": "ekyhnya.com.ua",
+      "tags": "<span>FinTechredesign <br>Web Service</span>",
+      "img": "assets/img/proj-3.jpg"
+    },
+    {
+      "title": "Total art school ",
+      "url": "ekyhnya.com.ua",
+      "tags": "<span>FinTechredesign <br>Web Service</span>",
+      "img": "assets/img/proj-4.jpg"
+    }
+  ],
+  "mol-project-info-description": [
+    {
+      "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>",
+      "url": "ekukhnja.com.ua"
+    },
+    {
+      "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>",
+      "url": "ekukhnja.com.ua"
+    }
+  ],
+  "mol-project-design-block": {
+    "description": "<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p> <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>",
+    "url": "ekukhnja.com.ua",
+    "image": "assets/img/design-img.png"
+  },
+  "mol-wareframe-block": {
+    "description": "<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>",
+    "url": "http://#.com",
+    "img-mob": "assets/img/mobile-wareframe.png",
+    "img-desc": "assets/img/wareframe-bg.png"
+  },
+  "mol-project-desctop-info": {
+    "description": "<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>",
+    "url": "ekukhnja.com.ua"
+  },
+  "mol-project-desctop-slider-item": [
+    {
+      "desc-img": "assets/img/e-kitchen.png",
+      "mob-img": "assets/img/mobile-slider-image.png"
+    },
+    {
+      "desc-img": "assets/img/e-kitchen.png",
+      "mob-img": "assets/img/mobile-slider-image.png"
+    },
+    {
+      "desc-img": "assets/img/e-kitchen.png",
+      "mob-img": "assets/img/mobile-slider-image.png"
+    },
+    {
+      "desc-img": "assets/img/e-kitchen.png",
+      "mob-img": "assets/img/mobile-slider-image.png"
+    }
+  ],
+  "mol-project-mobile-content": {
+    "description": "<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>",
+    "url": "ekukhnja.com.ua",
+    "img": "assets/img/mobile-image.png"
+  },
+  "mol-gmap": true,
+  "mol-home-baner-content": {
+    "items": {
+      "title-1": "Simplify",
+      "title-2": "Your way to Greatness"
+    }
+  },
+  "mol-baner-content-default": {
+    "title": "News"
+  }
+}

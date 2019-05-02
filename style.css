@@ -1,0 +1,34 @@
+/*
+Theme Name: Simplify Lviv
+Author: Simplify Lviv
+Author URI: http://smplfy.eu/
+Version: 1.0
+Text Domain: smplfy
+*/
+
+.form-group span.wpcf7-form-control-wrap {
+    position: initial;
+    width: 100%;
+}
+
+.form-group span.wpcf7-form-control-wrap textarea {
+    border: 0;
+}
+
+div.wpcf7 .ajax-loader {
+    position: absolute;
+}
+
+.header-nav__language .wpml-ls-current-language a {
+    font-weight: 600;
+}
+
+.header-nav__language .wpml-ls-current-language a:after {
+    content: url('/wp-content/themes/simplify/html_template/build/assets/img/dot.png');
+}
+
+.open-news p{margin-bottom: 20px}
+.open-news  li{font-family: GothamPro-Light;}
+.header-nav__menu li:last-child a{font-family: GothamPro-Medium;}
+.header-nav__menu li:last-child:after {width: 4px;height: 4px;content: url(html_template/build/assets/img/dot.png);}
+b,strong{font-family: GothamPro-Medium!important;}

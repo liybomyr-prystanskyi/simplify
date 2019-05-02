@@ -1,0 +1,46 @@
+{{#org-portfolio-block}}
+<section class="portfolio">
+  <div class="filter-portfolio-links">
+    <div class="container">
+      <div class="nav nav-tabs" id="nav-tab" role="tablist">
+        <a class="active" id="all-projects-tab" data-toggle="tab" href="#all-projects" role="tab"
+          aria-controls="all-projects" aria-selected="true">All projects</a>
+        <a class="" id="in-progress-tab" data-toggle="tab" href="#in-progress" role="tab" aria-controls="in-progress"
+          aria-selected="false">Profile</a>
+        <a class="" id="complete-tab" data-toggle="tab" href="#complete" role="tab" aria-controls="complete"
+          aria-selected="false">Complete</a>
+      </div>
+    </div>
+  </div>
+  <nav>
+    <div class="tab-content" id="nav-tabContent">
+      <div class="tab-pane fade show active" id="all-projects" role="tabpanel" aria-labelledby="all-projects-tab">
+        <div class="bb-default">
+          <div class="container">
+            <div class="row d-flex justify-content-lg-between">
+              {{> ../molecules/portfolio-list-item}}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="in-progress" role="tabpanel" aria-labelledby="in-progress-tab">
+        <div class="bb-default">
+          <div class="container">
+            <div class="row d-flex justify-content-lg-between">
+              {{> ../molecules/portfolio-list-item}}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="complete" role="tabpanel" aria-labelledby="complete-tab">
+        <div class="bb-default">
+          <div class="container">
+            <div class="row d-flex justify-content-lg-between">
+              {{> ../molecules/portfolio-list-item}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+{{/org-portfolio-block}}
